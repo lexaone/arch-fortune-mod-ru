@@ -1,3 +1,9 @@
+version 1.54    (08.08.2022) 
+		* added some 100 phrases from forbes.ru
+		* Modified PKGBUILD
+		* all fortunes moved to additional github repository
+		(github.com/lexaone/fortunes-ru/)
+
 version 1.53    (08.08.2022) 
 		* added some quotes from Faina Ranevskaya
 		* Modified Makefile
