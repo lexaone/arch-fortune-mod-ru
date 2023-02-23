@@ -20,7 +20,7 @@ backup=()
 changelog=ChangeLog
 
 package() {
-    cd "fortunes-ru-master"
+    cd "fortunes-ru"
     find . -mindepth 2 -a -type f -a -not -name '*.*' -exec dos2unix {} \;
     find . -mindepth 2 -a -type f -a -not -name '*.*' -exec strfile {} \;
     make DESTDIR="$pkgdir" INSTALLPATH="/usr/share/fortune/ru" install
