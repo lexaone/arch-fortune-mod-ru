@@ -1,3 +1,5 @@
+version 1.55  (05.06.2023) 
+		* moved all fortunes Confucius to dedicated file, update it from another sources
 version 1.54    (08.08.2022) 
 		* added some 100 phrases from forbes.ru
 		* Modified PKGBUILD
