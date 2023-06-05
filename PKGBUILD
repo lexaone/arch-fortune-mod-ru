@@ -1,6 +1,6 @@
 pkgname=fortune-mod-ru
-pkgver=1.54
-pkgrel=3
+pkgver=1.55
+pkgrel=1
 pkgdesc="A collection of cookie files for fortune-mod in Russian."
 arch=("any")
 url="https://github.com/lexaone/fortunes-ru"
